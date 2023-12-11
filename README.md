@@ -135,7 +135,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 -   [ ] Create the CI/CD pipeline
     -   [ ] CI
         -   [x] Add ESLint for linting Typescript with prettier integration
-        -   [ ] Add StyleLint or some CSS linting
+        -   [x] Add StyleLint or some CSS linting
         -   [ ] Add in skeleton jest tests
         -   [ ] Add GitHub actions to run the CI pipeline, including Codacy
     -   [ ] CD
