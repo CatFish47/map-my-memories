@@ -1,4 +1,4 @@
-Last updated 12/11/2023
+Last updated 12/12/2023
 
 This file will be used to outline the architectural design of the application as well as outline some of the technical details of the app.
 
@@ -36,5 +36,5 @@ This file will be used to outline the architectural design of the application as
 
 -   Netlify to deploy branch previews
 -   Netlify to deploy dev branch
--   [Website](https://www.grantcheng.com) to deploy prod branch
--   [Website](https://www.grantcheng.com) to deploy docs
+-   [Website](https://m3.grantcheng.com) to deploy prod branch
+-   [Website](https://m3-docs.grantcheng.com) to deploy docs
