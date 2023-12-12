@@ -137,7 +137,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
         -   [x] Add ESLint for linting Typescript with prettier integration
         -   [x] Add StyleLint or some CSS linting
         -   [ ] Add in skeleton jest tests
-        -   [ ] Add GitHub actions to run the CI pipeline, including Codacy
+        -   [X] Add GitHub actions to run the CI pipeline, including Codacy
     -   [ ] CD
         -   [ ] Add deploying to netlify for branch previews
         -   [ ] Add in JSDocs or some form of documentation
