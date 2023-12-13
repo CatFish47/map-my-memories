@@ -21,7 +21,8 @@
         "eject": "react-scripts eject",
         "lint": "npm run eslint -- --fix && npm run stylelint -- --fix",
         "eslint": "npx eslint ./src/**/*.{ts,tsx,js,jsx}",
-        "stylelint": "npx stylelint ./src/**/*.css"
+        "stylelint": "npx stylelint ./src/**/*.css",
+        "docs": "npx typedoc"
     },
     "eslintConfig": {
         "extends": [
@@ -57,6 +58,7 @@
         "react-test-renderer": "^18.2.0",
         "stylelint": "^16.0.2",
         "stylelint-config-standard": "^35.0.0",
+        "typedoc": "^0.25.4",
         "typescript": "^4.9.5"
     }
 }

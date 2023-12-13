@@ -2,6 +2,13 @@ import React from 'react'
 import logo from './logo.svg'
 import './App.css'
 
+/**
+ * @category React Component
+ *
+ * Main component for the app
+ *
+ * @returns {ReactElement}
+ */
 function App() {
     return (
         <div className="App">
