@@ -133,14 +133,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     -   [ ] Convert figma designs into boilerplate code
     -   [ ] Write down notes about the design in an `.md` file
     -   [ ] Write down in file for documentation conventions and other naming conventions
--   [ ] Create the CI/CD pipeline
+-   [x] Create the CI/CD pipeline
     -   [x] CI
         -   [x] Add ESLint for linting Typescript with prettier integration
         -   [x] Add StyleLint or some CSS linting
         -   [x] Add GitHub actions to run the CI pipeline, including Codacy
-    -   [ ] CD
+    -   [x] CD
         -   [x] Add deploying to netlify for branch previews
-        -   [ ] Add in JSDocs or some form of documentation
+        -   [x] Add in TypeDocs for documentation
         -   [x] Deploy dev branch to netlify
         -   [x] Deploy prod branch to [website](https://m3.grantcheng.com)
 

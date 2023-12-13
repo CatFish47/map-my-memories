@@ -10,21 +10,7 @@ Documentation is done through JSDocs and Better-Docs.
 
 ### Components
 
-Each component should have its own comment block above it, an example of which is shown below:
-
-```js
-/**
- * Component for showing details of the user.
- *
- * @component
- * @example
- * const age = 21
- * const name = 'Jitendra Nirnejak'
- * return (
- *   <User age={age} name={name} />
- * )
- */
-```
+Documentation conventions for components shall be decided at a later date.
 
 ### Functions
 
