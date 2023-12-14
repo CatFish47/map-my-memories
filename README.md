@@ -128,8 +128,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 -   [ ] Finish designing wireframes and architecture of the app
-    -   [ ] Add wireframes to `admin/design`
-    -   [ ] Add figma designs to `admin/design`
+    -   [x] Add wireframes to `admin/design`
+    -   [x] Add figma designs to `admin/design`
     -   [ ] Convert figma designs into boilerplate code
     -   [ ] Write down notes about the design in an `.md` file
     -   [ ] Write down in file for documentation conventions and other naming conventions
